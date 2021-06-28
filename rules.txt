@@ -1,0 +1,9 @@
+1. Interest is calculated on the minimum balance in PPF account between 5th and the end of each month.
+2. The interest on PPF is compounded annually. 
+3. Interest is calculated on a monthly basis but credited to account on 31st March every year.
+------------
+4. Min investment 500 per FY
+5. Max 150000 per FY
+6. maximum of 12 contributions per year
+7. 15 year lock, 5 year extension
+8. partial withdrawl (max 50% of balance) once a fy, from 7th fy
